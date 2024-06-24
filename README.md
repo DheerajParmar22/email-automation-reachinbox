@@ -1,2 +1,3 @@
 # email-automation-reachinbox
-Email Automation Project
+
+## Checkout to master branch - for code and the instructions
