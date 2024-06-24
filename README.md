@@ -19,6 +19,7 @@ This project is about automating email parsing, categorization, and response gen
 ## Setup Instructions
 
 ### 1. Clone the Repository
+Please checkout to master branch
 
 ### 2. .env variables
 
